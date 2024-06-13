@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cgv_front/static/css/main.b4d794f1.css",
+    "main.js": "/cgv_front/static/js/main.44482413.js",
+    "static/js/453.8a1e5a6d.chunk.js": "/cgv_front/static/js/453.8a1e5a6d.chunk.js",
+    "index.html": "/cgv_front/index.html",
+    "main.b4d794f1.css.map": "/cgv_front/static/css/main.b4d794f1.css.map",
+    "main.44482413.js.map": "/cgv_front/static/js/main.44482413.js.map",
+    "453.8a1e5a6d.chunk.js.map": "/cgv_front/static/js/453.8a1e5a6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4d794f1.css",
+    "static/js/main.44482413.js"
+  ]
+}
